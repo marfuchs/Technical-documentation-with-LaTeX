@@ -1,6 +1,4 @@
-\ifglsentryexists{latex}{}%
-{%
-\gls@defglossaryentry{latex}%
+\glsdefs@newdocentry{latex}%
 {%
 name={latex},%
 sort={latex},%
@@ -27,4 +25,4 @@ counter={page},%
 parent={},%
 %
 }%
-}%
+
