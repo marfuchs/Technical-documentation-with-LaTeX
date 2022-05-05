@@ -1,0 +1,148 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2022.2.21)  22 APR 2022 14:56
+entering extended mode
+**./03_Graphics.tex
+(03_Graphics.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(D:\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(D:\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(D:\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(D:\MiKTeX\tex/latex/latex-tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count187
+\c@Blindtext=\count188
+\c@blind@countparstart=\count189
+\blind@countxx=\count190
+\blindtext@numBlindtext=\count191
+\blind@countyy=\count192
+\c@blindlist=\count193
+\c@blindlistlevel=\count194
+\c@blindlist@level=\count195
+\blind@listitem=\count196
+\c@blind@listcount=\count197
+\c@blind@levelcount=\count198
+\blind@mathformula=\count199
+\blind@Mathformula=\count266
+\c@blind@randomcount=\count267
+\c@blind@randommax=\count268
+\c@blind@pangramcount=\count269
+\c@blind@pangrammax=\count270
+)
+(D:\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(D:\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(D:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box47
+) (03_Graphics.aux)
+\openout1 = `03_Graphics.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+(D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen141
+\scratchbox=\box48
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen142
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks17
+) (D:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+<donald.png, id=1, 144.54pt x 246.6816pt>
+File: donald.png Graphic file (type png)
+<use donald.png>
+Package pdftex.def Info: donald.png  used on input line 9.
+(pdftex.def)             Requested size: 144.53963pt x 246.68098pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+<Donald.png, id=3, 144.54pt x 246.6816pt>
+File: Donald.png Graphic file (type png)
+<use Donald.png>
+Package pdftex.def Info: Donald.png  used on input line 18.
+(pdftex.def)             Requested size: 5.09691pt x 8.70009pt.
+ [1
+
+{C:/Users/marco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./donald.pn
+g>] [2 <./Donald.png>] (03_Graphics.aux) ) 
+Here is how much of TeX's memory you used:
+ 1372 strings out of 479300
+ 20390 string characters out of 2872546
+ 310542 words of memory out of 3000000
+ 18874 multiletter control sequences out of 15000+200000
+ 406166 words of font info for 36 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,6n,74p,219b,240s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on 03_Graphics.pdf (2 pages, 273348 bytes).
+PDF statistics:
+ 22 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

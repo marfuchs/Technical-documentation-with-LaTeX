@@ -1,0 +1,149 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2022.2.21)  28 APR 2022 19:26
+entering extended mode
+**./02_Editing_structure_elements.tex
+(02_Editing_structure_elements.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(D:\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(D:\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (D:\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(D:\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen139
+\l@babelnohyphens=\language83
+
+(D:\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\MiKTeX\tex/latex/babel-german\german.ldf
+Language: german 2020/07/21 v2.12 German support for babel (pre-1996 orthograph
+y)
+
+(D:\MiKTeX\tex/latex/babel-german\germanb.ldf
+Language: germanb 2020/07/21 v2.12 German support for babel (pre-1996 orthograp
+hy)
+Package babel Info: Making " an active character on input line 135.
+)))
+(D:\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(D:\MiKTeX\tex/latex/latex-tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count190
+\c@Blindtext=\count191
+\c@blind@countparstart=\count192
+\blind@countxx=\count193
+\blindtext@numBlindtext=\count194
+\blind@countyy=\count195
+\c@blindlist=\count196
+\c@blindlistlevel=\count197
+\c@blindlist@level=\count198
+\blind@listitem=\count199
+\c@blind@listcount=\count266
+\c@blind@levelcount=\count267
+\blind@mathformula=\count268
+\blind@Mathformula=\count269
+\c@blind@randomcount=\count270
+\c@blind@randommax=\count271
+\c@blind@pangramcount=\count272
+\c@blind@pangrammax=\count273
+)
+(D:\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen140
+\ttl@minus=\dimen141
+\ttl@toksa=\toks15
+\titlewidth=\dimen142
+\titlewidthlast=\dimen143
+\titlewidthfirst=\dimen144
+)
+(D:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box48
+)
+(02_Editing_structure_elements.aux
+
+! Package babel Error: You haven't defined the language nil yet.
+(babel)                Perhaps you misspelled it or your installation
+(babel)                is not complete.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \babel@aux{nil}{}
+                     
+Your command will be ignored, type <return> to proceed
+
+)
+\openout1 = `02_Editing_structure_elements.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+Kapitel 1.
+[1
+
+
+{C:/Users/marco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(02_Editing_structure_elements.aux) ) 
+Here is how much of TeX's memory you used:
+ 1726 strings out of 479300
+ 25733 string characters out of 2872546
+ 341792 words of memory out of 3000000
+ 19240 multiletter control sequences out of 15000+200000
+ 404950 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,4n,62p,209b,136s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on 02_Editing_structure_elements.pdf (1 page, 32267 bytes).
+PDF statistics:
+ 14 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,133 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2022.2.21)  28 APR 2022 19:25
+entering extended mode
+**./05_Tables.tex
+(05_Tables.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(D:\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(D:\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(D:\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(D:\MiKTeX\tex/latex/latex-tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count187
+\c@Blindtext=\count188
+\c@blind@countparstart=\count189
+\blind@countxx=\count190
+\blindtext@numBlindtext=\count191
+\blind@countyy=\count192
+\c@blindlist=\count193
+\c@blindlistlevel=\count194
+\c@blindlist@level=\count195
+\blind@listitem=\count196
+\c@blind@listcount=\count197
+\c@blind@levelcount=\count198
+\blind@mathformula=\count199
+\blind@Mathformula=\count266
+\c@blind@randomcount=\count267
+\c@blind@randommax=\count268
+\c@blind@pangramcount=\count269
+\c@blind@pangrammax=\count270
+)
+(D:\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+ (D:\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count271
+\U@D=\dimen139
+\l@babelnohyphens=\language83
+
+(D:\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count272
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\MiKTeX\tex/latex/babel-german\german.ldf
+Language: german 2020/07/21 v2.12 German support for babel (pre-1996 orthograph
+y)
+
+(D:\MiKTeX\tex/latex/babel-german\germanb.ldf
+Language: germanb 2020/07/21 v2.12 German support for babel (pre-1996 orthograp
+hy)
+Package babel Info: Making " an active character on input line 135.
+)))
+(D:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box47
+) (05_Tables.aux)
+\openout1 = `05_Tables.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+
+Overfull \hbox (27.46014pt too wide) in paragraph at lines 8--13
+ [] 
+ []
+
+(05_Tables.lot)
+\tf@lot=\write3
+\openout3 = `05_Tables.lot'.
+
+ [1
+
+{C:/Users/marco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (05_Tables.
+aux) ) 
+Here is how much of TeX's memory you used:
+ 1428 strings out of 479300
+ 21802 string characters out of 2872546
+ 329500 words of memory out of 3000000
+ 18937 multiletter control sequences out of 15000+200000
+ 406772 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,62p,183b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb>
+Output written on 05_Tables.pdf (1 page, 27177 bytes).
+PDF statistics:
+ 14 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

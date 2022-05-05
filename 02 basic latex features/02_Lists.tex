@@ -1,5 +1,6 @@
 \documentclass[12pt]{article}
 \usepackage{enumitem}
+\usepackage{verbatim}
 
 \begin{document}
 
@@ -9,7 +10,6 @@
 	\item Oranges
 	\item Bananas
 \end{itemize}
-
 %environment itemize with another itemize embedded
 \begin{itemize}
 		\item Apples
@@ -24,8 +24,8 @@
 
 %environment enumerate
 	\begin{enumerate}
-		\item Apples
 		\item Oranges
+		\item Apples
 		\item Bananas
 	\end{enumerate}
 
@@ -35,6 +35,10 @@
 	\item Apples
 	\begin{enumerate}
 		\item Antonovka
+		\begin{enumerate}
+			\item  Hi
+			\item Brot
+		\end{enumerate}
 		\item Auksis
 		\item Bismarck
 	\end{enumerate}
